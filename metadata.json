@@ -1,0 +1,8 @@
+{
+  "name": "ViralShorts AI",
+  "description": "Automatically generate viral short-form videos for social media using AI script generation, voiceover, and video synthesis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
